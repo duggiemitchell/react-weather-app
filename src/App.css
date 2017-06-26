@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+.root {
+  background: url(sky-gif.gif) no-repeat center center fixed; 
+  background-size: cover;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+}
+
+.user-location {
+  margin-top: 30%;
+}
+.user-location h1 {
+  font-size: 60px;
+}
+
